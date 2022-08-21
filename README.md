@@ -100,14 +100,14 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 2
 
-![plot2.png]([figure/unnamed-chunk-3.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot2.png)) 
+![plot2.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot2.png)
 
 
 ### Plot 3
 
-![plot3.png]([figure/unnamed-chunk-4.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot3.png)) 
+![plot3.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot3.png) 
 
 
 ### Plot 4
 
-![plot4.png]([figure/unnamed-chunk-5.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot4.png)) 
+![plot4.png](https://github.com/yuanivyliu/Course4ExploratoryDataAnalysis_week1_project/blob/master/plot4.png) 
